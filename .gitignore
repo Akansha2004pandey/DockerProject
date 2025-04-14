@@ -1,0 +1,28 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
+# Docker files
+*.log
+*.bak
+Dockerfile*
+docker-compose.yml
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# IDE or Editor folders
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
