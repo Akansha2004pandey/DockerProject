@@ -8,8 +8,7 @@ __pycache__/
 # Docker files
 *.log
 *.bak
-Dockerfile*
-docker-compose.yml
+
 
 # Virtual environments
 venv/
